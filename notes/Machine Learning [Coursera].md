@@ -2,7 +2,7 @@
 attachments: [Clipboard_2020-12-01-17-53-20.png]
 title: 'Machine Learning [Coursera]'
 created: '2020-12-01T09:22:25.207Z'
-modified: '2020-12-01T12:33:35.978Z'
+modified: '2020-12-01T12:36:16.193Z'
 ---
 
 # Machine Learning [Coursera]
@@ -53,7 +53,7 @@ ML Examples
 * (x, y) =  single training example
 * $x^{(i)}, y^{(i)}$ = ith training example
 
-<img src="@attachment/Clipboard_2020-12-01-17-53-20.png" width=400>
+<img src="../attachments/Clipboard_2020-12-01-17-53-20.png" width=400>
 
 
 
