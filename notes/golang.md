@@ -1,3 +1,9 @@
+---
+title: Go
+created: '2020-10-02T07:23:00.949Z'
+modified: '2020-10-02T15:19:45.609Z'
+---
+
 # Go lang (Work in progress)
 
 * Go lang is strong and statically typed.

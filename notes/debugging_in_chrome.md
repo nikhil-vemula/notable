@@ -1,5 +1,5 @@
 ---
-title: debugging_in_chrome
+title: Debuggin in chrome
 created: '2020-11-28T09:08:40.853Z'
 modified: '2020-11-28T09:16:01.043Z'
 ---

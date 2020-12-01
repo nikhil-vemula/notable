@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: Journal
 created: '2020-09-04T16:08:10.970Z'
-modified: '2020-09-07T15:10:52.647Z'
+modified: '2020-12-01T08:16:55.770Z'
 ---
 
 # Journal

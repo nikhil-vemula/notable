@@ -1,3 +1,8 @@
+---
+title: MVC Explained
+created: '2020-09-11T14:22:39.680Z'
+modified: '2020-09-11T14:35:10.495Z'
+---
 # MVC
 
 By Example, consider a Address book application to display list of users and their phone numbers. MVC helps in reusing the model if the view changes from list to gird. It also helps to reuse view of not only to display person information later on. It avoids coupling of data and the view.

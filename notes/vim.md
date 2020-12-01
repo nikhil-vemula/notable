@@ -1,3 +1,8 @@
+---
+title: Vim
+created: '2020-09-11T14:22:39.680Z'
+modified: '2020-09-11T14:35:10.495Z'
+---
 # Vim
 
 ## General
