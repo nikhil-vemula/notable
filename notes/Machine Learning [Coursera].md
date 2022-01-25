@@ -1,8 +1,8 @@
 ---
-attachments: [Clipboard_2020-12-01-17-53-20.png, Clipboard_2020-12-01-20-16-24.png, Clipboard_2020-12-01-20-57-08.png]
+attachments: [Clipboard_2020-12-01-17-53-20.png, Clipboard_2020-12-01-20-16-24.png, Clipboard_2020-12-01-20-57-08.png, Clipboard_2020-12-05-18-05-05.png, Clipboard_2020-12-06-10-13-45.png, Clipboard_2020-12-06-10-15-20.png, Clipboard_2020-12-06-10-19-30.png, Clipboard_2020-12-12-16-23-16.png, Clipboard_2020-12-12-16-30-46.png]
 title: 'Machine Learning [Coursera]'
 created: '2020-12-01T09:22:25.207Z'
-modified: '2020-12-01T16:59:32.216Z'
+modified: '2020-12-12T11:02:33.449Z'
 ---
 
 # Machine Learning [Coursera]
@@ -139,10 +139,68 @@ $$
 h_\theta(X) = \frac{1}{1 + e^{-\theta^TX}}
 $$
 
+### Cost function
+
+<img src="../attachments/Clipboard_2020-12-06-10-13-45.png" width=500>
+
+### Gradient descent
+
+<img src="../attachments/Clipboard_2020-12-06-10-15-20.png" width=1000>
+
 ## Under fitting and over fitting
 
 ## Regularization
 
+## Neural networks
 
+In linear regression, we find the best fit for $\theta$ such the given features form polynomial figure the classifies or fits a given data set. Further we can on our own create features by combining existing features.
 
+The features combinations can be easily explode and this would be complex to solve linear hypothesis. Thus the need for non linear hyposthesis.
 
+<img src="../attachments/Clipboard_2020-12-05-18-05-05.png" width=500>
+
+### Cost function
+
+<img src="../attachments/Clipboard_2020-12-06-10-19-30.png" width=1000>
+
+### Back propagation
+
+### Gradient checking
+
+## Evaluating a machine learning algorithm
+
+### Debugging
+
+* Collect more training data
+* Try smaller set of features
+* Try getting additional features
+* Try adding polynomial features
+* Modify $\lambda$
+
+### Machine learning diagnostic
+
+* Avoid overfitting
+
+#### Evaluating the hypothesis
+
+* Split the training data to 70 : 30, to have some data for testing
+* Training set, cross validation set and testing set
+
+### Model selection
+
+* What degree of polynomial ? Try different values
+
+### Bias or variance
+
+* Bias : High bias underfit the data
+* Variance : High variance overfit the data
+
+#### Regularization
+
+Try different values 
+
+<img src="../attachments/Clipboard_2020-12-12-16-23-16.png" width=300>
+
+## Learning curves
+
+<img src="../attachments/Clipboard_2020-12-12-16-30-46.png" width=300>

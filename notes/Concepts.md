@@ -1,8 +1,7 @@
 ---
-favorited: true
 title: Concepts
 created: '2020-08-15T09:51:45.536Z'
-modified: '2020-10-03T09:33:26.275Z'
+modified: '2020-12-06T04:38:14.390Z'
 ---
 
 # Concepts
